@@ -2,4 +2,4 @@
 
  A project I made with arduino and a sht sensor. 
 
- ![The finle project](/20221016_181409.jpg =50x50)
+ ![The finle project](/20221016_181409.jpg=50x50)
