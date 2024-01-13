@@ -50,9 +50,7 @@ void loop() {
    lcd.print("Temp: "); lcd.print(tempf); lcd.println(" F");
    lcd.setCursor(0,10);
    lcd.print("HUM: "); lcd.print(h);lcd.println(" %RH");
-   // ADDS AND CONSTRATINT TO HUMIDITY TO KEEP IN WITH RANG FOR LEDS. 
-   // WITH THE IF FUNCHION. 
-
+ 
     delay(5000);
  
  }
