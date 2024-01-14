@@ -8,7 +8,7 @@
 ### Decraption: 
 ### This code uses I2C and SPI. the sensors is set as an I2C connention on address 0x44. The Oled is set as a SPI device using a converte to dispaly the sensor reading. 
 
-```
+~~~
 #include <Wire.h>
 #include "Adafruit_LiquidCrystal.h"
 #include "SHTSensor.h"
@@ -54,7 +54,7 @@ void loop() {
     delay(5000);
  
  }
-```
+~~~
  
 ## [Back](https://tcaviness.github.io/#code)
 
